@@ -1,4 +1,6 @@
-# DS1 Final Project
+# PPOL 564 | Data Science 1: Foundations 
+
+## Final Project
 
 ## Predicting Methane Emissions from Cattle
 
